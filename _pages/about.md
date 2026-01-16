@@ -27,9 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Research Engineer in the Division of Experience Engineering at [KT Corporation](https://corp.kt.com/eng/). Before joining KT, I was a Data Scientist in Transportation and Logistics Research Department at the [Gyeonggi Research Institute](https://www.gri.re.kr/eng/main/index.do).
+I am a Research Engineer in the Division of Experience Engineering at [KT Corporation](https://corp.kt.com/eng/). Before joining KT, I was a Data Scientist in Transportation and Logistics Research Department at [Gyeonggi Research Institute](https://www.gri.re.kr/eng/main/index.do).
 
-I received both my B.S (Magna Cum Laude) and M.S. in Air transportation from [Korea Aerospace University](https://kau.ac.kr/english/index/main.php), in 2021 and 2023, respectively. During my Master’s studie, I specialized in Urban Air Mobility (UAM) infrastructure, focusing on vertiport layout design and system performance, advised by [Dr. Sang Hyun Kim](https://sites.google.com/view/atmlab/members)
+I received both my B.S. (Magna Cum Laude) and M.S. in Air transportation from [Korea Aerospace University](https://kau.ac.kr/english/index/main.php), in 2021 and 2023, respectively. During my Master’s studies, I specialized in Urban Air Mobility (UAM) infrastructure, focusing on vertiport layout design and system performance, advised by [Dr. Sang Hyun Kim](https://sites.google.com/view/atmlab/members)
 
 I am broadly interested in Air Transportation Systems, Advanced Air Mobility (AAM), and Optimization and Control. My research focuses on analysis, design, control, and optimization of autonomous systems. I explore the use of optimization techniques, probabilistic modeling, data-driven approaches, and machine learning to develop these systems for various transportation applications.
 
