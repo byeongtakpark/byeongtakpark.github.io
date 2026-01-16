@@ -2,34 +2,37 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: byeongtak [dot] park [at] kt [dot] com
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: btpark.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # more_info: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Research Engineer in the Division of Experience Engineering at [KT Corporation](https://corp.kt.com/eng/). Before joining KT, I was a transportation data scientist in Transportation and Logistics Research Department at the [Gyeonggi Research Institute](https://www.gri.re.kr/eng/main/index.do), after receiving the M.S., advised by Dr. Sang Hyun Kim, and B.S. degrees in Air transportation (Magna Cum Laude) from Korea Aerospace University, in 2023 and 2021, respectively. 
+I am a Research Engineer in the Division of Experience Engineering at [KT Corporation](https://corp.kt.com/eng/). Before joining KT, I was a Data Scientist in Transportation and Logistics Research Department at the [Gyeonggi Research Institute](https://www.gri.re.kr/eng/main/index.do). 
 
-My research interests are in the analysis, design, control, and optimization of traffic management, with an emphasis on urban air mobility (UAM) and transportation systems. I am skilled in utilizing data analysis and modeling tools to provide insights to support decision-making in transportation business planning and policy. I explore the use of optimization techniques, probabilistic modeling, data-driven approaches, and machine learning to solve real-world problems in the transportation industry. 
+I received both my B.S (Magna Cum Laude) and M.S. in Air transportation from [Korea Aerospace University](https://kau.ac.kr/english/index/main.php), in 2021 and 2023, respectively. During my Master’s studie, I specialized in Urban Air Mobility (UAM) infrastructure, focusing on vertiport layout design and system performance, advised by [Dr. Sang Hyun Kim](https://sites.google.com/view/atmlab/members)
+
+I am broadly interested in Air Transportation Systems, Advanced Air Mobility (AAM), and Optimization and Control. My research focuses on analysis, design, control, and optimization of autonomous systems. I explore the use of optimization techniques, probabilistic modeling, data-driven approaches, and machine learning to develop these systems for various transportation applications.
+
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
