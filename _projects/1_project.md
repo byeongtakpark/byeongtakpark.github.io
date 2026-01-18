@@ -12,9 +12,7 @@ related_publications: true
 
 The value of travel time (VOT) is critical paramter in transportation policies, representing the amount of money a traveler is willing to pay to save one unit of travel time. In this context, estimating VOT is essential for infrastructure feasibility studies and transportation policy design.
 
-This 
-
-
+This
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -38,7 +36,6 @@ This
 <div class="caption">
     This image can also have a caption. It's like magic.
 </div>
-
 
 You can also put regular text between your rows of images, even citations {% cite park2022vertiport %}.
 Say you wanted to write a bit about your project before you posted the rest of the images.
