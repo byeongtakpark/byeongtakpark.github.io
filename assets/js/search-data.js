@@ -391,16 +391,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-an-article-on-lessons-learned-from-k-uam-gc-2-project-has-been-published-in-kt-corporation-s-tech-blog-kode",
+          title: 'An article on Lessons Learned from K-UAM GC-2 Project has been published in...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-an-article-on-ieee-itsc-2025-attendance-review-has-been-published-in-kt-corporation-s-tech-blog-kode",
+          title: 'An article on IEEE ITSC 2025 Attendance Review has been published in KT...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-our-paper-on-vertiport-layout-design-has-been-accepted-for-publication-in-engineering-optimization-sci",
+          title: 'Our paper on Vertiport Layout Design has been accepted for publication in Engineering...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
