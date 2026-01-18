@@ -391,7 +391,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-an-article-on-lessons-learned-from-k-uam-gc-2-project-has-been-published-in-kt-corporation-s-tech-blog-kode",
+            },},{id: "news-our-paper-on-optimal-fleet-sizing-for-on-demand-uam-services-was-presented-at-ieee-itsc-2025",
+          title: 'Our paper on Optimal Fleet Sizing for On-demand UAM Services was presented at...',
+          description: "",
+          section: "News",},{id: "news-an-article-on-lessons-learned-from-k-uam-gc-2-project-has-been-published-in-kt-corporation-s-tech-blog-kode",
           title: 'An article on Lessons Learned from K-UAM GC-2 Project has been published in...',
           description: "",
           section: "News",},{id: "news-an-article-on-ieee-itsc-2025-attendance-review-has-been-published-in-kt-corporation-s-tech-blog-kode",
