@@ -31,7 +31,7 @@ I am a Research Engineer in the Division of Experience Engineering at [KT Corpor
 
 I received both my B.S. (Magna Cum Laude) and M.S. in Air transportation from [Korea Aerospace University](https://kau.ac.kr/english/index/main.php), in 2021 and 2023, respectively. During my Master’s studies, I specialized in Urban Air Mobility (UAM) infrastructure, focusing on vertiport layout design and system performance, advised by [Dr. Sang Hyun Kim](https://sites.google.com/view/atmlab/members).
 
-I am broadly interested in Air Transportation Systems, Advanced Air Mobility (AAM), and Optimization and Control. My research focuses on analysis, design, control, and optimization of autonomous systems. I explore the use of optimization techniques, probabilistic modeling, data-driven approaches, and machine learning to develop these systems for various transportation applications.
+I am broadly interested in Air Transportation Systems, Advanced Air Mobility (AAM), and Optimization and Control. My research focuses on leveraging AI/ML techniques to analyze, design, and control complex aerospace and transportation systems. Specifically, I investigate methods to accelerate optimization by using machine learning to refine search spaces and provide high-quality warm-starts for computationally intensive problems.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
