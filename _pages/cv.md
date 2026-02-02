@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: https://drive.google.com/file/d/1wvyMiUWROnld1MuoovIV_Ag5wqcQZj_X/view?usp=sharing
+permalink: https://drive.google.com/file/d/1PNXF5Bg74EVp5ZiivQporlE93xKnYdA4/view?usp=sharing
 title: cv
 nav: true
 nav_order: 5
