@@ -403,7 +403,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-on-vertiport-layout-design-has-been-accepted-for-publication-in-engineering-optimization-sci",
           title: 'Our paper on Vertiport Layout Design has been accepted for publication in Engineering...',
           description: "",
-          section: "News",},{id: "news-gave-a-talk-on-kt-s-uam-initiatives-and-shared-my-real-world-experiences-as-an-industry-professional-for-senior-air-traffic-management-students-at-korea-aerospace-university",
+          section: "News",},{id: "news-gave-a-talk-on-kt-s-uam-initiatives-and-shared-my-real-world-experiences-as-an-industry-professional-to-senior-students-majoring-in-air-transportation-at-korea-aerospace-university",
           title: 'Gave a talk on KT’s UAM initiatives and shared my real-world experiences as...',
           description: "",
           section: "News",},{id: "projects-project-1",
